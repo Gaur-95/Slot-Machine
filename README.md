@@ -69,13 +69,7 @@ Designed for both **PC and Mobile** platforms.
 
 
 
-## 🖼 Project Screenshots
 
-### Start Screen
-![Project Window](https://github.com/Gaur-95/Slot-Machine/blob/main/Screenshot%20(98).png)
-
-### Game UI
-![Hirarchy](https://github.com/Gaur-95/Slot-Machine/blob/main/Screenshot%20(99).png)
 
 
 
