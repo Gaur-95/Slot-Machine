@@ -57,8 +57,7 @@ Designed for both **PC and Mobile** platforms.
 
 
 
-## 🎮 Gameplay Preview
-![Gameplay](https://github.com/Gaur-95/Slot-Machine/raw/main/Gameplay.gif)
+
 
 ## 🎥 Gameplay Videos
 
