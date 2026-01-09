@@ -62,9 +62,7 @@ Designed for both **PC and Mobile** platforms.
 
 ## 🎥 Gameplay Videos
 
-- [Watch Demo 1](https://drive.google.com/file/d/1nqrvzBHvu_qRRdu4vphPLHVaZ3pB7MhD/view?usp=drive_link)
-- [Watch Demo 2](https://drive.google.com/file/d/1URA5fH94VsrdB2Sg6aAKrwD_G7rWmMts/view?usp=drive_link)
-- [Watch Demo 3](https://drive.google.com/file/d/1ud8umvGkkHpnhbUIbO0NNTTfcLbdC5bK/view?usp=drive_link)
+- [Watch Demo 1](https://drive.google.com/file/d/15x2b7I2AImZuHKxpjQzZZgwoLH0KrRT1/view?usp=sharing)
 
 
 
