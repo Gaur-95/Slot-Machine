@@ -98,7 +98,7 @@ Designed for both **PC and Mobile** platforms.
 ## 📦 Setup & Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/slot-machine.git
+   git clone https://github.com/Gaur-95/slot-machine.git
 
 
 
